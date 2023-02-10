@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/phys-math/static/css/main.9e91fb69.css",
-    "main.js": "/phys-math/static/js/main.b57e5def.js",
+    "main.js": "/phys-math/static/js/main.a657ad56.js",
     "static/media/test.mp4": "/phys-math/static/media/test.c548906313388fe39267.mp4",
     "static/media/KaTeX_AMS-Regular.ttf": "/phys-math/static/media/KaTeX_AMS-Regular.1436d720bab5540f6042.ttf",
     "static/media/KaTeX_Main-Regular.ttf": "/phys-math/static/media/KaTeX_Main-Regular.1f59b6fa39fdefdd8d5d.ttf",
@@ -68,10 +68,10 @@
     "static/media/KaTeX_Size3-Regular.woff2": "/phys-math/static/media/KaTeX_Size3-Regular.5cce6e91e556438f05bc.woff2",
     "index.html": "/phys-math/index.html",
     "main.9e91fb69.css.map": "/phys-math/static/css/main.9e91fb69.css.map",
-    "main.b57e5def.js.map": "/phys-math/static/js/main.b57e5def.js.map"
+    "main.a657ad56.js.map": "/phys-math/static/js/main.a657ad56.js.map"
   },
   "entrypoints": [
     "static/css/main.9e91fb69.css",
-    "static/js/main.b57e5def.js"
+    "static/js/main.a657ad56.js"
   ]
 }
