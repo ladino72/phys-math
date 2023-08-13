@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/phys-math/static/css/main.7644845d.css",
-    "main.js": "/phys-math/static/js/main.7d144257.js",
+    "main.css": "/phys-math/static/css/main.20d4dbab.css",
+    "main.js": "/phys-math/static/js/main.ed188fff.js",
     "static/media/KaTeX_AMS-Regular.ttf": "/phys-math/static/media/KaTeX_AMS-Regular.1436d720bab5540f6042.ttf",
     "static/media/KaTeX_Main-Regular.ttf": "/phys-math/static/media/KaTeX_Main-Regular.1f59b6fa39fdefdd8d5d.ttf",
     "static/media/KaTeX_Main-Bold.ttf": "/phys-math/static/media/KaTeX_Main-Bold.fa009f3b39d732e29b43.ttf",
@@ -66,11 +66,11 @@
     "static/media/KaTeX_Size3-Regular.woff": "/phys-math/static/media/KaTeX_Size3-Regular.a562474e7cb5eaa89d50.woff",
     "static/media/KaTeX_Size3-Regular.woff2": "/phys-math/static/media/KaTeX_Size3-Regular.5cce6e91e556438f05bc.woff2",
     "index.html": "/phys-math/index.html",
-    "main.7644845d.css.map": "/phys-math/static/css/main.7644845d.css.map",
-    "main.7d144257.js.map": "/phys-math/static/js/main.7d144257.js.map"
+    "main.20d4dbab.css.map": "/phys-math/static/css/main.20d4dbab.css.map",
+    "main.ed188fff.js.map": "/phys-math/static/js/main.ed188fff.js.map"
   },
   "entrypoints": [
-    "static/css/main.7644845d.css",
-    "static/js/main.7d144257.js"
+    "static/css/main.20d4dbab.css",
+    "static/js/main.ed188fff.js"
   ]
 }
